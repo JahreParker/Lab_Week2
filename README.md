@@ -9,7 +9,7 @@ It shifts between the question and answer
 
 ### App Walk-though
 
-<img src="https://imgur.com/9Di04nB" width=200><br>
+<img src="https://imgur.com/8ecb7833-2777-4409-9418-8357f5a6121b.gif" width=200><br>
 
 
 ## Required
