@@ -9,7 +9,7 @@ It shifts between the question and answer
 
 ### App Walk-though
 
-<img src="lab_1.gif" width=200><br>
+<img src="Lab_1.gif" width=200><br>
 
 
 ## Required
